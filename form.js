@@ -32,8 +32,8 @@ rules:{
 	text:true,
 },
 'message':{
- required:true,
- minlength: 3,
+	 required:true,
+	 minlength: 3,
 }
 },
 messages:{
